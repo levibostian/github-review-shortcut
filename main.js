@@ -4,7 +4,7 @@
 // @description  Mark file as "viewed" on GitHub PR UI when hovering and pressing 'Escape' key
 // @match        https://github.com/*
 // @author       dvdvdmt, nbolton
-// @source       https://github.com/orgs/community/discussions/10197
+// @source       https://github.com/nbolton/github-review-shortcut
 // @namespace    https://github.com/nbolton/github-review-shortcut
 // @license      MIT
 // ==/UserScript==
