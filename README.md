@@ -2,7 +2,7 @@
 
 Mark file as "viewed" on GitHub PR UI when hovering and pressing 'Escape' key
 
-Discussion: https://github.com/orgs/community/discussions/10197
+[Original discussion](https://github.com/orgs/community/discussions/10197)
 
 ## Instructions
 
